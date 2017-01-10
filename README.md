@@ -1,4 +1,4 @@
-# Docker and Zend Framework 2
+# Docker and Zend Framework 2 --- Test
 
 Here you'll find a `Dockerfile` and some configurations to run
 your Zend Framework 2 applications within a docker container.  
